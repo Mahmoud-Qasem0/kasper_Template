@@ -967,6 +967,7 @@ header nav .form i{
     caret-color: var(--main-color);
     width: calc(100% - 130px);
     border-right: none;
+    color:#fff;
 }
 .subscribe form input[type="email"]::placeholder {
     color: #fff;
